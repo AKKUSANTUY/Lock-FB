@@ -1,7 +1,7 @@
 # Lock-FB
 TOOLS INI UNTUK MENGUNCI AKUN PROFIL AKUN FACEBOOK KAMU CARANYA HARUS LOGIN DENGAN COOKIES FACEBOOK KAMU SENDIRI UNTUK MENGUNCI AKUN
 
-#### metode login: [cookies](https://instagram.com/akku_santuy)
+#### Metode Login : [cookies](https://instagram.com/akku_santuy)
 
 ### Install
 ```bash
